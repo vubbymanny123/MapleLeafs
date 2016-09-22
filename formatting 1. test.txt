@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body   {
+    color: turquoise;
+}
+h1   {
+    color: darkblue;
+}
+p   {
+    color: red;
+    text-align: center;
+}
+</style>
+<title>Toronto Maple Leafs</title>
+</head>
+<body>
+
+<h1 align="center">Intro</h1>
+
+<p> Welcome to a site about Toronto’s own hockey team, the Toronto Maple Leafs. Home to over 50 NHL superstars the Leafs are known to be one of the most power packed rosters found in the league. With extra skill and ability coming from all directions (drafts, trades, free agents) it's not sure what greatness awaits the maple leafs. This web page takes a closer look on the History of the Leafs, the 2016-2017 Roster, the Venue, the intense rivalries and much more. </p>
+
+</body>
+</html>
+
