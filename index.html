@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+  <html>
+   <head>
+   <meta charset="UTF-8">
+   <link rel="stylesheet" type="text/css href="basic.css">
+     <style>
+body   {
+    background-color: lightblue;
+}
+table  {
+    font-family: verdana;
+	color: lightred;
+		}
+h1   {
+    color: mahogany;
+}
+img class="mySlides   {
+  align:center;
+}
+  </style>
+  <title>Toronto Maple Leafs</title>
+  </head>
+<body>
+
+   <h1 align="center">The New Face of The Toronto Maple Leafs</h1>
+   
+ 	   <hr border="5px">
+
+<img class="mySlides" src="http://wpmedia.windsorstar.com/2015/12/vancouver-canucks-v-toronto-maple-leafs.jpeg?quality=55&strip=all&w=625&h=469&crop=1" style="width:1225px;height:800px" border="10pt">   
+<img class="mySlides" src="http://content.sportslogos.net/news/2016/02/Toronto-Maple-Leafs-Reveal-New-Logo-2016-2017-.jpg" style="width:1225px;height:800px" border="10pt">
+<img class="mySlides" src="http://www.bladecreativebranding.com/blog/wp-content/uploads/2016/02/Maple-Leafs-Logo-Evolution.png" style="width:1225px;height:800px" border="10pt">
+<img class="mySlides" src="https://www.thestar.com/content/dam/thestar/sports/leafs/2016/06/24/auston-matthews-best-bet-for-maple-leafs-no-1-pick-at-nhl-draft/auston-matthews-jersey.jpg.size.custom.crop.1086x736.jpg" style="width:1225px;height:800px" border="10pt">
+<img class="mySlides" src="http://wpmedia.news.nationalpost.com/2016/03/torleafs10.jpg?quality=65&strip=all&w=620" style="width:1225px;height:800px" border="10pt">
+
+<script>
+var slideIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none"; 
+    }
+    slideIndex++;
+    if (slideIndex > x.length) {slideIndex = 1} 
+    x[slideIndex-1].style.display = "block"; 
+    setTimeout(carousel, 2000); // Change image every 4 seconds
+}
+</script>
+<br>
+ <table border="10px" BGCOLOR="turquoise" color="red">  
+	<tr> 
+	<th> Welcome to a site about Toronto’s own hockey team, the Toronto Maple Leafs.
+    Home to many NHL superstars the Leafs are known to be one of the most power packed rosters found in the league.
+    With extra skill and ability coming from all directions (drafts, trades, free agents)
+    it's not sure what greatness awaits the maple leafs. This web page takes a closer look
+    on the History of the Leafs, the 2016-2017 Roster, the Venue, the intense rivalries and much more. </th>
+	</tr>
+		   </table> 
+</body>
+</html>

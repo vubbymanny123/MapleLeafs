@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+  <html>
+   <head>
+   <meta charset="UTF-8">
+   <link rel="stylesheet" type="text/css href="basic.css">
+   <title>Toronto Maple Leafs</title>
+<style>
+body   {
+    background-color: lightblue;
+}
+h1   {
+    color: mahogany;
+}
+h2   {
+    color: darkblue
+}
+h3   {
+    color: darkorange;
+}
+</style>
+</head>
+<body>
+
+<h1 align="center">About the Organization</h1>
+ 
+<hr>
+
+<h2 align="center">History of the Toronto Maple Leafs </h2>
+<img src="http://www.tmlforum.net/Themes/default/images/On%20This%20Day%20In%20Leafs%20History/Captains.gif" align="topright">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Tor_chi_94.jpg" style="width:400px;height:244px">
+<img src="https://www.hhof.com/graphspot/pin_apps01.jpg" style="width:425px;height:244px">
+ <table border="10pt" width="80%" align="center">
+  <tr>
+   <th>  
+ With the NHL officially beginning in 1917, the Toronto Maple Leafs were one of the teams across Canada.
+ The NHL officially started off with 5 teams, but reduced to 3 after Quebec and the Montreal Wanderers 
+ had to leave due to financial troubles. Toronto too, was on the verge of financial crisis, and help
+ finally came as the owners of the Ontario Hockey Association helped create the Toronto St.Pats. This 
+ team was created to bring the large population on Irish citizens to the games. However, the owner 
+ eventually lost a lawsuit and had to sell the team. A company from Philadelphia wanted to buy it, but 
+ former Canadian military officer Conn Smythe submitted an offer of $160,000 that the owners agreed to. 
+ Conn Smythe renamed the team to the “Maple Leafs” and changed the colors back to Blue and White. In 
+ 1931, the Leafs debuted at the newly constructed Maple Leaf Gardens. The Leafs reached the cup finals 5/7
+ times the next couple years, and this begun the start of their successful career. When the NHL was expanded 
+ in 1942, to the Original 6, the Maple Leafs started out as an incredible force. They won 4 cups that decade
+ and surpassed the Montreal Canadiens as the most Stanley Cups in history. In 1960, Conn Smythe sold 
+ the team for $2,300,000. The Leafs went on to win another trio of Stanley Cups that decade. In 1990, the
+ Leafs made an incredible rebuild and the team was full of stars and franchise players. With an outstandingly 
+ talented team, the Leafs made the conference finals but lost to the LA Kings, but not without controversy.
+ The Leafs were leading 3-2 in the series, and in the final moments, Wayne Gretzky accidentally hit Doug
+ Gilmour in the face with the stick. The referee however didn’t call a penalty on the play. Moments later,
+ Gretzky scored the game winner and LA would come back to win the series. In 2003, the Leafs made the
+ playoffs, but were quickly succumbed by the Philadelphia Flyers in 7 games. The rest however, has become
+ history. 
+   </th>
+  </tr>
+ </table>
+ <hr>
+   <h3 align="center">Legends of the Past</h3>
+   <table 2 border="5pt" width="50%" align="left" height="300px">
+   <tr>
+    <th> Johnny Bower </th>
+	<th>Darryl Sittler</th> 
+   </tr>
+   <tr>
+    <td align="center"> Johnny Bower, also known as John Kiszkan is a Canadian Hockey Hall of Fame goaltender
+	who played 12 seasons for the Toronto Maple Leafs. During his 12 year stint, Bower won 4 Stanley Cups;
+	3 of them consecutively from 1961-64 and the last one in ‘67. Bower holds the record for being the oldest
+	goaltender to ever play in a playoff game. A statue of Bower is present outside the ACC, and his jersey
+	was honored by the Maple Leafs in 2010. Bower was inducted into the Hall of Fame in 1976. </td>
+    <td align="center"> Darryl Sittler is considered one of the All Time Maple Leafs greats. Born in 1950, Sittler
+	was drafted 8th overall in 1970 and was soon named team captain at the tender age of 25. In 1976, Darryl set a
+	record that hasn’t been touched to this date; 10 points in a single game (6 goals, 4 assists) In 1980, under to
+	management of Punch Imlach, Sittler requested a trade, and one the greatest Maple Leafs was traded away to
+	Philadelphia. In 2003 however, the Leafs raised Sittler's jersey to rafters. He was inducted into the Hall of
+	Fame in 2016.</td>
+   </tr>
+  </table>
+  
+   <img src="https://theshawshow.files.wordpress.com/2011/03/sittler1.jpg" style="width:275px;height:300px" align="right">   
+   <img src="http://www.goaliesarchive.com/leafs/goalie/bower.jpg" style="width:275px;height:300px" align="right">
+   <img src="http://www.hhof.com/graphinduct/sundin03.jpg" style="width:275px;height:300px" align="left">
+   <img src="http://www.hemmets.se/wp-content/uploads/2015/01/nhl-5.jpg" style="width:275px;height:305px">
+	
+     <table 2 border="5pt" width="50%" align="left">
+   <tr>
+    <th> Mats Sundin </th>
+    <th> Borje Salming </th>
+   </tr>
+   <tr>
+    <td align="center"> Mats Sundin was born Feb 1971 and was drafted by the Quebec Nordiques in 1989 before being 
+	traded to the Leafs in ‘94. He served 11 years as the team captain and made history by being the longest serving
+	non-North American born captain. Mats recorded over 70 points every year for the Maple Leafs, and was the
+	points leader for the Leafs the whole time. Mats Sundin is the Maple Leafs all time points leader and over his
+	career, he has average over 1 point per game. Mats was inducted into the Hockey Hall of Fame in 2013, and was
+	the second Swede introduced in the HHOF after Borje Salming. </td>
+    <td align="center">Borje Salming: Borje Salming is a retired Swedish hockey player who played 17 seasons for  Toronto.
+	Salming first played hockey for 6 years of his life in Sweden, before he was signed as a free agent by
+	Toronto. In his rookie year, Salming recorded an impressive 39 points. Salming was selected for the First
+	All-Star team twice and was selected for Team 2 six times. However, on November 26, 1986, Salming had the
+	greatest setback of his life. While knocked down in front of the net, someone accidentally cut Salmings face
+	with a skate blade. Salming required facial surgery and needed 200 stitches. Salming retired 5 years later
+	and was inducted into the Hall of Fame in ‘96. </td>
+   </tr>
+  </table>
+<br>
+<br>
+  </body>
+</html>
